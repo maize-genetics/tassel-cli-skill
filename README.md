@@ -28,3 +28,7 @@ _TODO_
 ## Requirements
 
 TASSEL 5 must be installed separately. See the [TASSEL documentation](https://tassel.maizegenetics.net/getting_started/) for setup instructions.
+
+## License
+
+This project is licensed under the [Apache License 2.0](LICENSE).
